@@ -1,0 +1,60 @@
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\VirtualAdvisor.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\VirtualAdvisor.pdb
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\Antlr3.Runtime.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\DotNetOpenAuth.AspNet.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\DotNetOpenAuth.Core.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\DotNetOpenAuth.OAuth.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\DotNetOpenAuth.OpenId.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\EntityFramework.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\Microsoft.Web.Infrastructure.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\System.Web.Optimization.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\System.Web.Providers.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\WebGrease.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\EntityFramework.xml
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\DotNetOpenAuth.Core.xml
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\DotNetOpenAuth.OAuth.xml
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\DotNetOpenAuth.OpenId.xml
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\bin\DotNetOpenAuth.AspNet.xml
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\obj\Debug\VirtualAdvisor.csprojResolveAssemblyReference.cache
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\obj\Debug\VirtualAdvisor.dll
+c:\users\master\documents\visual studio 2012\Projects\VirtualAdvisor\obj\Debug\VirtualAdvisor.pdb
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\VirtualAdvisor.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\VirtualAdvisor.pdb
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\Antlr3.Runtime.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\DotNetOpenAuth.Core.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\EntityFramework.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\System.Web.Optimization.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\System.Web.Providers.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\WebGrease.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\EntityFramework.xml
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\DotNetOpenAuth.Core.xml
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\obj\Debug\VirtualAdvisor.csprojResolveAssemblyReference.cache
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\obj\Debug\VirtualAdvisor.dll
+C:\Users\Gosan\Documents\GitHub\SEP-REPO\VirtualAdvisor\obj\Debug\VirtualAdvisor.pdb

@@ -1,0 +1,7 @@
+-This is the Self Advising project
+-RUN the test on your machine before pushing them
+-Our framework is a Webform
+-We will be the mysql database to store our data
+-For any extensions that are added please provide a stepwise process for the other members to add them as well
+-Avoid working in the same file as someone at the same time to prevent inconsistencies
+-We will be using AJAx for our interactive design
